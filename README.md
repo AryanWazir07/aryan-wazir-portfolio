@@ -38,13 +38,6 @@ As I approach graduation, I am seeking opportunities to gain professional experi
 - Customer Service
 - Sales
 
-### Tools I Use
-
-- GitHub Copilot
-- Replit Agent
-- Adobe Express
-- Wispr Flow
-
 ---
 
 ## 💼 Experience
